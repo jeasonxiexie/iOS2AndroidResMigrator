@@ -1,3 +1,4 @@
+[English](./README_EN.md)
 # iOS2AndroidResMigrator
 
 这是一个简易的库，包含两个脚本，用于将iOS项目中的字符串资源以及图片资源转换为适用于Android项目的形式。
